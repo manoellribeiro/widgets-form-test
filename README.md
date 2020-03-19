@@ -7,11 +7,11 @@
 
 Aplicativo mobile desenvolvido pela comunidade Flutterando, durante a semana do Flutter sobre MobX, acesse o vídeo [aqui.](https://www.youtube.com/watch?v=oa-_cSdGIbE)
 
-## Why?
+## Por que ?
 
 Para ajudar a comunidade e aprender mais sobre testes de Widgets, decidi escrever um artigo em forma de tutorial escrevendo os testes para esse formulário, leia o artigo [aqui.]()
 
-## Some Observations about this App
+## Observações
 
 * É apenas um aplicativo para estudo e ensino.
 
